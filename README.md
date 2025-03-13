@@ -1,6 +1,4 @@
-Claro! Aqui está a documentação completa do código em formato **Markdown**, pronta para ser copiada e colada no seu arquivo `README.md`. 🎉
 
----
 
 # **Documentação do Projeto: Regressor com Redes Neurais para Previsão de Preços de Casas**
 
@@ -164,4 +162,3 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ---
 
-Espero que essa documentação seja útil! Se precisar de mais alguma coisa, é só perguntar! 😊
